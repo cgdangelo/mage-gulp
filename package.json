@@ -1,0 +1,22 @@
+{
+  "name": "mage-gulp",
+  "version": "0.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp": "~3.5.2",
+    "gulp-util": "~2.2.14",
+    "gulp-haml": "0.0.8",
+    "gulp-rename": "~1.0.0",
+    "gulp-uglify": "~0.2.0",
+    "gulp-coffee": "~1.4.1",
+    "gulp-watch": "~0.5.0",
+    "gulp-plumber": "~0.5.6",
+    "gulp-compass": "~1.1.1"
+  },
+  "author": {
+    "name": "Charles D'Angelo",
+    "email": "c.g.dangelo@gmail.com"
+  },
+  "license": "ISC"
+}
